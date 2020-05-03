@@ -575,17 +575,17 @@
 
             figure.snip1206 {
              
-              color: #fff;
-              position: relative;
-              float: left;
-              overflow: hidden;
-              margin: 10px 1%;
-              min-width: 220px;
-              max-width: 310px;
-              max-height: 220px;
-              width: 100%;
-              color: #000000;
-              text-align: center;
+                    color: #fff;
+                    position: relative;
+                    float: left;
+                    overflow: hidden;
+                    margin: 10px 1%;
+                    min-width: 225px;
+                    max-width: 390px;
+                    height: 255px;
+                    width: 100%;
+                    color: #000000;
+                    text-align: center;
             }
             figure.snip1206 * {
               -webkit-box-sizing: border-box;
