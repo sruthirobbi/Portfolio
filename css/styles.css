@@ -196,13 +196,7 @@
         .info-3-back h4{
             text-align: center;
         }
-        .info-svg{
-                svg{
-                        
-                width:100%;
-                height:100%
-                }
-        }
+        
         .resumeBtn{
               background-color: #ffcb08;
               color: white;
