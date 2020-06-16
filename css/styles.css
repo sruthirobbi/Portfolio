@@ -197,8 +197,11 @@
             text-align: center;
         }
         .info-svg{
+                svg{
+                        
                 width:100%;
                 height:100%
+                }
         }
         .resumeBtn{
               background-color: #ffcb08;
