@@ -7,8 +7,8 @@
                 background-attachment: fixed;
                 background-position: center;
                 background-repeat: no-repeat;
-                clip-path: polygon(0 0, 100% 0, 100% 86%, 0% 100%);
-                -webkit-clip-path:  polygon(0 0, 100% 0, 100% 86%, 0% 100%);
+/*                 clip-path: polygon(0 0, 100% 0, 100% 86%, 0% 100%);
+                -webkit-clip-path:  polygon(0 0, 100% 0, 100% 86%, 0% 100%); */
             
 
             }
@@ -33,8 +33,8 @@
                 background-attachment: fixed;
                 background-position: center;
                 background-repeat: no-repeat;
-                clip-path: polygon(0 0, 100% 0, 100% 86%, 0% 100%);
-                -webkit-clip-path:  polygon(0 0, 100% 0, 100% 86%, 0% 100%);
+/*                 clip-path: polygon(0 0, 100% 0, 100% 86%, 0% 100%);
+                -webkit-clip-path:  polygon(0 0, 100% 0, 100% 86%, 0% 100%); */
             }
         
 
